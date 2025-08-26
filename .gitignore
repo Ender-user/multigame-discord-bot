@@ -1,0 +1,10 @@
+# Empêche le token d'être publié
+.env
+
+# Empêche les fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Fichiers système inutiles
+.DS_Store
+Thumbs.db
